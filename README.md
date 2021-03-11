@@ -4,7 +4,7 @@ python tkinter chat server
 -------------------------
 
 
-local network falcon chat server and tkinter client side chat UI
+local network https://falconframework.org chat server and tkinter client side chat UI
 
 litepresence2020
 
